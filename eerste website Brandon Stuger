@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+       <head>
+
+         <title> mijn eerste Website  </title>
+       </head>
+       <body> 
+         <h1>Mijn eerste Website</h1>
+         <h2>Gecodeerd door</h2>
+         <p>Brandon Stuger</p>
+         <hr>Dit is mijn eerste Code en ik ben pretty proud</hr> 
+       </body>
+</html>
